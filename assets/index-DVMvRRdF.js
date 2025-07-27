@@ -1303,4 +1303,4 @@ Please change the parent <Route path="${M}"> to <Route path="${M==="/"?"*":`${M}
             padding: 8px 16px;
           }
         }
-      `})]})};function c0(){return l.jsx(Bc,{children:l.jsxs("div",{className:"min-h-screen bg-white",id:"",children:[l.jsx(Ym,{})," ",l.jsxs(Xf,{children:[l.jsx(to,{path:"/",element:l.jsxs(l.Fragment,{children:[l.jsx(qm,{}),l.jsx(n0,{}),l.jsx(u0,{}),l.jsx(Zm,{})," ",l.jsx(s0,{})]})}),l.jsx(to,{path:"/resource/:id",element:l.jsx(o0,{})})]})]})})}lf.createRoot(document.getElementById("root")).render(l.jsx(j.StrictMode,{children:l.jsx(Bc,{basename:"/fiverr",children:l.jsx(c0,{})})}));
+      `})]})};function c0(){return l.jsx(Bc,{basename:"/fiverr",children:l.jsxs("div",{className:"min-h-screen bg-white",children:[l.jsx(Ym,{}),l.jsxs(Xf,{children:[l.jsx(to,{path:"/",element:l.jsxs(l.Fragment,{children:[l.jsx(qm,{}),l.jsx(n0,{}),l.jsx(u0,{}),l.jsx(Zm,{}),l.jsx(s0,{})]})}),l.jsx(to,{path:"/resource/:id",element:l.jsx(o0,{})})]})]})})}lf.createRoot(document.getElementById("root")).render(l.jsx(j.StrictMode,{children:l.jsx(Bc,{basename:"/fiverr",children:l.jsx(c0,{})})}));
